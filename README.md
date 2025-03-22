@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/davidzheweiwang?text=activity)
+![](https://leetcard.jacoblin.cool/davidzheweiwang?site=cn)

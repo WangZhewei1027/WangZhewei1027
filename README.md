@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/6ifted-6auss?ext=activity)
